@@ -1,5 +1,7 @@
 # Optimized-ORB-SLAM3
 **Authors:** Haozhe Liu, Xiao Zhong
+link: https://github.com/Billy-Liu-12/ESE650_final_project
+branch: master
 
 ## Purpose
 The purpose of this project is to combine the advantage of 6DOF into ORB\_SLAM3 system that accepts both fully triangulated keyframes for normal 6DOF operation and keyframes with pure rotational constraints. 
