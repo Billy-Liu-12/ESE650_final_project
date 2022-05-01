@@ -1,4 +1,4 @@
-# ESE650_final_project Optimized-ORB-SLAM3
+# Optimized-ORB-SLAM3
 **Authors:** Haozhe Liu, Xiao Zhong
 
 ## Purpose
